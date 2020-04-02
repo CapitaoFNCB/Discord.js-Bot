@@ -1,9 +1,9 @@
 {
-	"ownerid": "242263403001937920",
-	"modrolename": "Moderator",
-	"adminrolename": "Admin",
-	"managerrolename": "Manager",
-	"overlordrolename": "Owner",
-	"prefix": "/",
-	"token": ""
+	"ownerid": "190228556557582337",
+	"modrolename": "Moderador",
+	"adminrolename": "Administrador",
+	"managerrolename": "Gerente",
+	"overlordrolename": "Dono",
+	"prefix": "!",
+	"token": "iAvcLwr1CM2v4LG5mKHRggfrHhg1sapc"
 }
